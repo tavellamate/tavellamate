@@ -1,6 +1,7 @@
 
-<img align="right" src="./profile.jpeg" width="220" style="border-radius:10px" />
-
+<p align="center">
+  <img src="./profile.jpeg" width="260" alt="Mateo Tavella working on infrastructure" />
+</p>
 # Hi, I'm Mateo Tavella
 
 **Software Developer | IT Support**
@@ -19,7 +20,7 @@ Passionate about technology, software development, infrastructure and business p
 
 ### Development
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,html,css)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs)](https://skillicons.dev)
 
 ### Databases
 
