@@ -1,5 +1,5 @@
 
-<img align="right" src="./profile.png" width="220" style="border-radius:10px" />
+<img align="right" src="./profile.jpeg" width="220" style="border-radius:10px" />
 
 # Hi, I'm Mateo Tavella
 
