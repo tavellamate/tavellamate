@@ -1,20 +1,28 @@
 
-<p align="center">
-  <img src="./profile.jpeg" width="260" alt="Mateo Tavella working on infrastructure" />
-</p>
-# Hi, I'm Mateo Tavella
+<table>
+<tr>
+<td width="75%">
 
-**Software Developer | IT Support**
+<h1>Hi, I'm Mateo Tavella</h1>
 
-## About Me
+<b>Software Developer | IT Support</b>
 
-Currently working at **Simplifica** as a Software Developer and IT Support professional.
+<h3>About Me</h3>
+
+Currently working at <b>Simplifica</b> as a Software Developer and IT Support professional.
 
 Programming student at Universidad Tecnológica Nacional (UTN), approaching graduation.
 
-Passionate about technology, software development, infrastructure and business process automation.
+Passionate about software development, infrastructure and business process automation.
 
 📍 Concordia, Entre Ríos, Argentina.
+
+</td>
+<td width="25%" align="center">
+<img src="./profile.jpeg" width="220" alt="IT infrastructure" />
+</td>
+</tr>
+</table>
 
 ## Tech Stack
 
